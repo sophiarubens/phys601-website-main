@@ -11,13 +11,14 @@ Sophia has presented her work at several home institution poster sessions, the [
 # Outreach
 AFTER WE COMPLETE THE OUTREACH SESSION, I WILL PASTE THE PRODUCT OF THIS ACTIVITY HERE.
 
-# CV
-
-<!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/RubensResume.pdf">
-
 # Other Interests
 
 - [Hiking](./hiking.md)
 - [Crocheting](./crocheting.md)
 - [Cooking](./cooking.md)
+
+
+# CV
+
+<!-- How to embed a PDF -->
+<iframe width="100%" height="600" src="./media/RubensResume.pdf">
