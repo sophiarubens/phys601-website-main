@@ -1,4 +1,4 @@
-# Undergraduate honors thesis
+## Undergraduate honors thesis
 
 My undergraduate honors thesis expanded upon the case study of the [gravitationally lensed](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) [blazar](https://en.wikipedia.org/wiki/Blazar) [PKS 1830-211](https://en.wikipedia.org/wiki/PKS_1830-211) I conducted during my time as a student in the research experience for undergraduates (REU) program at [MIT Haystack Observatory](https://www.haystack.mit.edu). For context, a blazar is one "flavor" of active galaxy where the characteristic intense multi-frequency emission from the relativistic jet perpendicular to the accretion disk is radio-loud. Within the unified model of active galactic nuclei (AGNs), a blazar is an AGN viewed nearly face-on. For more context on this project and a contextualization of where my analysis after those ten initial weeks of work fell short, please see the [corresponding page](/graduate-studies/research/highlights/reu_report/).
 

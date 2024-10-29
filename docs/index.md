@@ -1,3 +1,5 @@
+My name is Sophia. I'm a first-year direct-entry physics PhD student studying 21-cm hydrogen intensity mapping.
+
 # Overview
 
 As a cosmologist in training, curiosity about the implications of the physics governing the largest scales and earliest times of the universe drives my everyday work and long-term aspirations to work as a permanent researcher at an independent research institute. 

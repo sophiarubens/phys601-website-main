@@ -1,4 +1,4 @@
-# Research
+## Research
 
 As a researcher, I live at the boundary between theoretical—in the sense of simulations, forecasting, and modeling—and experimental—to the tune of telescope dish troubleshooting—cosmology. I work with one supervisor in each realm and communicate with both groups. At the moment, seeing as it is still merely my second month as a graduate student, I am laying the groundwork for my future thesis project more than working on a fully-fledged project itself. 
 

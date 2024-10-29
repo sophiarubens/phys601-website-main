@@ -5,7 +5,7 @@ site_url: https://sophiarubens.github.io/graduate-studies/ # must have the trail
 site_author: Sophia Rubens (sophia.rubens@mail.mcgill.ca)
 site_description: Research site for Sophia Rubens 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Sophia Rubens <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 

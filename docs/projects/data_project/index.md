@@ -1,4 +1,4 @@
-# Data Project
+## Data Project
 
 Here are the results of my Bayesian MCMC for Planck data using a chi-squared function calculated using the [CAMB software](https://camb.readthedocs.io/en/latest/). 
 <!-- Use figure to centre -->

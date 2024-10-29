@@ -1,4 +1,4 @@
-# Projects
+## Projects
 
 At the moment, two projects I'm working on are an inverse power spectrum calculator and a computational physics problem set.
 

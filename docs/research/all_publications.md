@@ -1,4 +1,4 @@
-# Publications
+## Publications
 I will update this page with real, relevant papers as soon as I contribute as an author to journal articles. For now—i.e. the PHYS 601 assignment where one requirement is to populate a publication page—I will use some assorted articles in various fields which I find fascinating. 
 
 ## 2024

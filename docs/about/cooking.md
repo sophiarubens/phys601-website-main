@@ -1,4 +1,4 @@
-# Improvisation and synthesis
+## Improvisation and synthesis
 
 Some recent highlights have been
 
