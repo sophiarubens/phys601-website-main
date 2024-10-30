@@ -1,4 +1,4 @@
-## Undergraduate honors thesis
+# Undergraduate honors thesis
 
 My undergraduate honors thesis expanded upon the case study of the [gravitationally lensed](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) [blazar](https://en.wikipedia.org/wiki/Blazar) [PKS 1830-211](https://en.wikipedia.org/wiki/PKS_1830-211) I conducted during my time as a student in the research experience for undergraduates (REU) program at [MIT Haystack Observatory](https://www.haystack.mit.edu). For context, a blazar is one "flavor" of active galaxy where the characteristic intense multi-frequency emission from the relativistic jet perpendicular to the accretion disk is radio-loud. Within the unified model of active galactic nuclei (AGNs), a blazar is an AGN viewed nearly face-on. For more context on this project and a contextualization of where my analysis after those ten initial weeks of work fell short, please see the [corresponding page](/graduate-studies/research/highlights/reu_report/).
 
@@ -9,4 +9,8 @@ I also re-examine the time-monitoring light curves for the lensed system using m
 Finally, I identify some molecular transitions in one of the nearly face-on spiral galaxies lensing the source blazar. Although the z=0.19 galaxy does not exhibit any known molecular transitions, the z=0.89 galaxy exhibits over thirty known such transitions. In the data set I had available, I identified five distinct lines: four relatively confidently and echoing literature findings, and one where the only good match available in the [Splatalogue](https://splatalogue.online/#/home) was an implausibly large molecule.
 
 Shown below is a compilation of my VLBI imaging results. After using the [Astronomical Image Processing System (AIPS)](http://www.aips.nrao.edu) to reduce and calibrate my data and the [Caltech software implementation of the difference mapping technique (difmap)](https://www.cv.nrao.edu/adass/adassVI/shepherdm.html) to prepare the images shown below, I used difmap to perform model fitting and extract the flux values used to construct the ratios I considered in the quantitative part of my VLBI analysis. 
-![A screenshot of the paper](./media/imaging.png)
+![A screenshot of the paper](./media/imaging.png "paper screenshot"){align="center": style="height:1000;width:1000px"}
+
+![photo with my thesis committee](./media/thesis.JPG "photo with my thesis committee"){align="center": style="height:500;width:500px"}
+
+Photo with my thesis committee after my defense

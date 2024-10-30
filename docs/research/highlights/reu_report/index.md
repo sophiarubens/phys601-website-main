@@ -1,4 +1,4 @@
-## REU report
+# REU report
 
 I wrote my first not-for-a-class scientific report as a participant in the MIT Haystack Observatory Research Experience for Undergraduates (REU) during the summer of 2023. I used radio-frequency (VLBI, for imaging; and single-dish, for time-monitoring light curves and spectroscopy) and gamma-ray (light curves from the Fermi telescope, for comparison with their radio counterparts) data to construct a case study of the [gravitationally lensed](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) [blazar](https://en.wikipedia.org/wiki/Blazar) [PKS 1830-211](https://en.wikipedia.org/wiki/PKS_1830-211). For context, a blazar is one "flavor" of active galaxy where the characteristic intense multi-frequency emission from the relativistic jet perpendicular to the accretion disk is radio-loud. Within the unified model of active galactic nuclei (AGNs), a blazar is an AGN viewed nearly face-on. 
 
@@ -8,7 +8,9 @@ I worked on this REU project between June and August of 2023. By the end of this
 
 The associated slide presentation and poster I prepared are both linked under the "Using a Natural Cosmic Telescope to Study a Distant Radio Quasar / Sophia D'Agostino Rubens" heading (eighth from the top) under 2023 tab of the [Haystack REU presentation archive](https://www.haystack.mit.edu/haystack-public-outreach/research-experiences-for-undergraduates-reu/reu-presentation-archives/).
 
+![REU group photo](./media/reu.JPG "REU group photo"){align="center": style="height:432px;width:616px"}
 
+Photo with my REU cohort on the last day of the program. We've kept in touch via Discord and are always scheming about REUnions at conferences
 
 <figure markdown>
   ![Coma cluster](./media/strong_lensing_wikimedia.jpg){: style="height:300px;width:500px"}
